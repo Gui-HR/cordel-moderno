@@ -87,6 +87,7 @@ section > p{
 
 pre{
     white-space: pre-line;
+    padding-left: 15px;
 }
 
 footer{
