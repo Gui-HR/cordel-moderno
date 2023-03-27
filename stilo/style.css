@@ -43,7 +43,7 @@ section{
     padding-top: 10vh;
     padding-bottom: 10vh;
     line-height: 1.5em;
-    font-size: 1.3em;
+    font-size: 1.4em;
     font-weight: 550;
 }
 
@@ -82,12 +82,13 @@ section{
 
 section > p{
     padding-bottom: 1em;
-    font-family: 'Delicious Handrawn', 'cursive';
+    font-family: 'Delicious Handrawn', cursive;
 }
 
 pre{
     white-space: pre-line;
     padding-left: 15px;
+    font-family: 'Delicious Handrawn', cursive;
 }
 
 footer{
